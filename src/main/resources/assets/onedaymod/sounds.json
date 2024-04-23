@@ -1,0 +1,38 @@
+{
+  "flame_creeper": {
+    "subtitle": "sounds.onedaymod.flame_creeper",
+    "sounds": [
+      "onedaymod:flame_creeper"
+    ]
+  },
+  "flatten_creeper": {
+    "subtitle": "sounds.onedaymod.flatten_creeper",
+    "sounds": [
+      "onedaymod:flatten_creeper"
+    ]
+  },
+  "knockback_creeper": {
+    "subtitle": "sounds.onedaymod.knockback_creeper",
+    "sounds": [
+      "onedaymod:knockback_creeper"
+    ]
+  },
+  "love_creeper": {
+    "subtitle": "sounds.onedaymod.love_creeper",
+    "sounds": [
+      "onedaymod:love_creeper"
+    ]
+  },
+  "snow_creeper": {
+    "subtitle": "sounds.onedaymod.snow_creeper",
+    "sounds": [
+      "onedaymod:snow_creeper"
+    ]
+  },
+  "water_creeper": {
+    "subtitle": "sounds.onedaymod.water_creeper",
+    "sounds": [
+      "onedaymod:water_creeper"
+    ]
+  }
+}

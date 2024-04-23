@@ -1,0 +1,18 @@
+{
+  "entity.onedaymod.fire_creeper": "Fire Creeper",
+  "entity.onedaymod.flatten_creeper": "Flatten Creeper",
+  "entity.onedaymod.knockback_creeper": "Knockback Creeper",
+  "entity.onedaymod.lava_creeper": "Lava Creeper",
+  "entity.onedaymod.love_creeper": "Love Creeper",
+  "entity.onedaymod.snow_creeper": "Snow Creeper",
+  "entity.onedaymod.water_creeper": "Water Creeper",
+
+  "item.onedaymod.fake_love_creeper_spawn_egg": "Fake Love Creeper Spawn Egg",
+  "item.onedaymod.fire_creeper_spawn_egg": "Fire Creeper Spawn Egg",
+  "item.onedaymod.flatten_creeper_spawn_egg": "Flatten Creeper Spawn Egg",
+  "item.onedaymod.knockback_creeper_spawn_egg": "Knockback Creeper Spawn Egg",
+  "item.onedaymod.lava_creeper_spawn_egg": "Lava Creeper Spawn Egg",
+  "item.onedaymod.love_creeper_spawn_egg": "Love Creeper Spawn Egg",
+  "item.onedaymod.snow_creeper_spawn_egg": "Snow Creeper Spawn Egg",
+  "item.onedaymod.water_creeper_spawn_egg": "Water Creeper Spawn Egg"
+}
